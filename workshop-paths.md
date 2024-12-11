@@ -8,4 +8,4 @@ Interested in creating a pathed experience where you can build up your audience'
 
 ## Data Zero to Hero
 
-Let's learn new technology and apply it in real projects
+we are learning something new 
